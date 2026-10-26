@@ -273,6 +273,11 @@ Web-based development environments with AI capabilities.
 
 ## LLM SDKs & Integration Tools
 
+### Agent Payment Node
+- **GitHub**: [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node)
+- **Description**: Local payment runtime and stdio MCP tools for x402 offers, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.
+- **License**: MIT
+
 ### LiteLLM
 - **GitHub**: [BerriAI/litellm](https://github.com/BerriAI/litellm) ![Stars](https://img.shields.io/github/stars/BerriAI/litellm)
 - **Description**: Call 100+ LLM APIs using the OpenAI format
