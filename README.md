@@ -256,6 +256,17 @@ Command-line tools for AI-assisted coding.
 - **Website**: [openhands.dev](https://openhands.dev/)
 - **License**: MIT
 
+#### agent-qa
+- **Website**: [vostride.com](https://vostride.com)
+- **GitHub**: [vostride/agent-qa](https://github.com/vostride/agent-qa)
+- **Description**: AI app testing from natural-language journeys through CLI and MCP
+- **Key Features**:
+  - Persistent memidex memory across test runs
+  - Validated self-improvement from prior runs
+  - Web, Android, and iOS testing with reviewable run evidence
+- **Install**: `npm install -D agent-qa` (Node.js 24+)
+- **License**: FSL-1.1-ALv2
+
 ### Cloud-Based IDEs
 
 Web-based development environments with AI capabilities.
